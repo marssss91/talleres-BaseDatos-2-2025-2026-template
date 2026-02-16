@@ -1,4 +1,4 @@
-name: Evaluacion Masiva Oficial
+name: Evaluacion Masiva Manual
 
 on:
   workflow_dispatch:
